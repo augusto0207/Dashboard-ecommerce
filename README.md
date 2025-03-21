@@ -66,4 +66,4 @@ Sugestões estratégicas para melhorar o desempenho do e-commerce.
 
 🔗 Acesse o Dashboard: (https://drive.google.com/file/d/1YlE3kGgnA_VzPC-K1q8_WmwvBuXo9E0q/view?usp=drive_link)
 
-📌 Autor: Augusto Henrique Giacobbo
+
